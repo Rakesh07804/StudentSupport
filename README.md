@@ -53,4 +53,3 @@ Set up environment variables as needed.
 
 Run the backend and frontend servers.
 
-Let me know if you want a more detailed setup section or want to include anything else!
