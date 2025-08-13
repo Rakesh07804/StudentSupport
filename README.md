@@ -43,13 +43,5 @@ _client/_: React frontend application.
 
 _server/_: Node.js backend with Express and MongoDB.
 
-Getting Started (Optional)
 
-Clone the repository.
-
-Install dependencies in both client and server folders.
-
-Set up environment variables as needed.
-
-Run the backend and frontend servers.
 
